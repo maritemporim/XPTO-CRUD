@@ -1,3 +1,1 @@
-# Projeto-Final.c
-
-Projeto final de conclusão do curso de linguagem C, onde devíamos realizar um programa para cadastrar, listar e excluir funcionários da empresa XPTO.
+🎓 Projeto final do curso técnico em Redes de Computadores, desenvolvido em C. O objetivo era criar um programa capaz de cadastrar, listar e excluir funcionários da empresa fictícia XPTO.
